@@ -1627,8 +1627,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8$订阅源
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv$订阅源
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv$订阅源
+四川科教,https://t.freetv.fun/live/si-chuan-ke-jiao.m3u8$订阅源
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8$订阅源
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv$订阅源
+广元综合,https://t.freetv.fun/live/yan-yuan-zong-he-1.m3u8$订阅源
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660$订阅源
 康巴卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源
 康巴卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源
@@ -1662,6 +1664,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 石棉综合,http://live.hyxrmt.com:85/live/xwpd.m3u8$订阅源
 筠连综合,http://live.dameijunlian.cn/live1/live1.m3u8$订阅源
 绵阳科技,https://stream1.freetv.fun/mian-yang-ke-ji-2.m3u8$订阅源
+绵阳科技,https://t.freetv.fun/live/mian-yang-ke-ji.m3u8$订阅源
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
@@ -3030,4 +3033,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 
 🕘️更新时间,#genre#
-2026-04-13 06:56:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-04-13 19:36:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
