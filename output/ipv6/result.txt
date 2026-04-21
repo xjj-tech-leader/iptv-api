@@ -1590,6 +1590,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8$订阅源
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8$订阅源
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8$订阅源
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-3.m3u8$订阅源
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8$订阅源
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
 广西国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html$订阅源
@@ -3033,4 +3034,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 
 🕘️更新时间,#genre#
-2026-04-21 07:01:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-04-21 19:24:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
