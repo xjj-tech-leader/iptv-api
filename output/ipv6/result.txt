@@ -236,6 +236,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 第一剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ$订阅源
 第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8$订阅源
 第一剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079$订阅源
+第一剧场,https://gd202.tv1288.xyz/tsfile/live/1047_1.m3u8$订阅源
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8$订阅源
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8$订阅源
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ$订阅源
@@ -3034,4 +3035,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 
 🕘️更新时间,#genre#
-2026-05-02 07:09:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-05-02 19:10:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
