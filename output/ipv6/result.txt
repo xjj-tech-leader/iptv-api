@@ -2600,6 +2600,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$订�
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-6.ctv$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.ctv$订阅源
+星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8$订阅源
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$订阅源
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv$订阅源
@@ -3036,4 +3037,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 
 🕘️更新时间,#genre#
-2026-05-11 07:05:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-05-11 21:00:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
